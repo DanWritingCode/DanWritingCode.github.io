@@ -1,4 +1,4 @@
-## Dan's (s4868416) BLOG
+## Welcome
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/daniel-uy)
 
