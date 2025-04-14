@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Dan's (s4868416) BLOG
+description:  This blog will focus on AI and the lessons learnt from the [fast.ai](https://www.fast.ai) blog as well as my general background and interests.
+github_username: DanWritingCode
 
 # Email and twitter are optional:
 email:
